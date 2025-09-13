@@ -26,6 +26,7 @@
     <li>✅ <strong>Multiples of 3 or 5</strong></li>
     <li>✅ <strong>Shortest Word</strong></li>
     <li>✅ <strong>Your order, please.</strong></li>
+    <li>✅ <strong>Bit Counting</strong></li>
   </ul>
 
   <hr>
