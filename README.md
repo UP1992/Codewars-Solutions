@@ -28,6 +28,7 @@
     <li>✅ <strong>Your order, please.</strong></li>
     <li>✅ <strong>Bit Counting</strong></li>
     <li>✅ <strong>Decode the Morse Code</strong></li>
+    <li>✅ <strong>Tribonacci Sequence</strong></li>
   </ul>
 
   <hr>
