@@ -27,6 +27,7 @@
     <li>✅ <strong>Shortest Word</strong></li>
     <li>✅ <strong>Your order, please.</strong></li>
     <li>✅ <strong>Bit Counting</strong></li>
+    <li>✅ <strong>Decode the Morse Code</strong></li>
   </ul>
 
   <hr>
