@@ -29,6 +29,7 @@
     <li>✅ <strong>Bit Counting</strong></li>
     <li>✅ <strong>Decode the Morse Code</strong></li>
     <li>✅ <strong>Tribonacci Sequence</strong></li>
+    <li>✅ <strong>Find the unique number</strong></li>
   </ul>
 
   <hr>
