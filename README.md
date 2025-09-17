@@ -31,6 +31,7 @@
     <li>✅ <strong>Tribonacci Sequence</strong></li>
     <li>✅ <strong>Find the unique number</strong></li>
     <li>✅ <strong>RGB to Hex Conversion</strong></li>
+    <li>✅ <strong>Calculating with functions</strong></li>
   </ul>
 
   <hr>
