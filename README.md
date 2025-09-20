@@ -32,6 +32,7 @@
     <li>✅ <strong>Find the unique number</strong></li>
     <li>✅ <strong>RGB to Hex Conversion</strong></li>
     <li>✅ <strong>Calculating with functions</strong></li>
+    <li>✅ <strong>Simple Pig Latin</strong></li>
   </ul>
 
   <hr>
