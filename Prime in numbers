@@ -1,0 +1,31 @@
+Given a positive number n > 1 find the prime factor decomposition of n. The result will be a string with the following form :
+
+ "(p1**n1)(p2**n2)...(pk**nk)"
+with the p(i) in increasing order and n(i) empty if n(i) is 1.
+
+Example: n = 86240 should return "(2**5)(5)(7**2)(11)"
+
+
+//Solution
+function primeFactors(n) {
+  let result = "";
+  let factor = 2; // start with smallest prime
+
+  while (n > 1) {
+    let count = 0;
+    while (n % factor === 0) { // count how many times factor divides n
+      n = n / factor;
+      count++;
+    }
+    if (count > 0) {
+      result += count > 1 ? `(${factor}**${count})` : `(${factor})`;
+    }
+    factor++;
+    if (factor * factor > n && n > 1) {
+      result += `(${n})`;
+      break;
+    }
+  }
+
+  return result;
+}
