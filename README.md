@@ -35,6 +35,7 @@
     <li>✅ <strong>Simple Pig Latin</strong></li>
     <li>✅ <strong>Greed is Good</strong></li>
     <li>✅ <strong>Prime in numbers</strong></li>
+    <li>✅ <strong>Human readable time</strong></li>
   </ul>
 
   <hr>
