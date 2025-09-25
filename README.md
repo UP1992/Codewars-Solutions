@@ -36,6 +36,7 @@
     <li>✅ <strong>Greed is Good</strong></li>
     <li>✅ <strong>Prime in numbers</strong></li>
     <li>✅ <strong>Human readable time</strong></li>
+    <li>✅ <strong>Human readable duration format</strong></li>
   </ul>
 
   <hr>
