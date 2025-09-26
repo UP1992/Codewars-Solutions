@@ -37,6 +37,7 @@
     <li>✅ <strong>Prime in numbers</strong></li>
     <li>✅ <strong>Human readable time</strong></li>
     <li>✅ <strong>Human readable duration format</strong></li>
+    <li>✅ <strong>Regex Password Validation</strong></li>
   </ul>
 
   <hr>
