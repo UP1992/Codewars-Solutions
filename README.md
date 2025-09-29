@@ -38,6 +38,7 @@
     <li>✅ <strong>Human readable time</strong></li>
     <li>✅ <strong>Human readable duration format</strong></li>
     <li>✅ <strong>Regex Password Validation</strong></li>
+    <li>✅ <strong>Snail Sort</strong></li>
   </ul>
 
   <hr>
