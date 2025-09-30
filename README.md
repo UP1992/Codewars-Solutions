@@ -39,6 +39,7 @@
     <li>✅ <strong>Human readable duration format</strong></li>
     <li>✅ <strong>Regex Password Validation</strong></li>
     <li>✅ <strong>Snail Sort</strong></li>
+    <li>✅ <strong>Catching Car Mileage Numbers</strong></li>
   </ul>
 
   <hr>
