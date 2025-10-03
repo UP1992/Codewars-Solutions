@@ -40,6 +40,7 @@
     <li>✅ <strong>Regex Password Validation</strong></li>
     <li>✅ <strong>Snail Sort</strong></li>
     <li>✅ <strong>Catching Car Mileage Numbers</strong></li>
+    <li>✅ <strong>Binomial Expansion<li></strong></li>
   </ul>
 
   <hr>
